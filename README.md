@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug involving unexpected string concatenation due to loose typing. The `bug.js` file shows the erroneous code, while `bugSolution.js` provides a corrected version with explicit type checking to ensure that numerical addition occurs as intended.
